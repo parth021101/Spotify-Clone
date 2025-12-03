@@ -16,7 +16,7 @@ This project is a pixel-perfect front-end clone of the Spotify dashboard user in
 ## Live Demo
 
 Explore the live version of the Spotify UI Clone here:
-[YOUR NETLIFY LIVE DEMO URL HERE]
+[spotify0201.netlify.app]
 
 ## Getting Started (Local Setup)
 
