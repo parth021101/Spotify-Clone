@@ -18,21 +18,6 @@ This project is a pixel-perfect front-end clone of the Spotify dashboard user in
 Explore the live version of the Spotify UI Clone here:
 [spotify0201.netlify.app]
 
-## Getting Started (Local Setup)
-
-To get a local copy up and running, follow these simple steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/spotify-ui-clone.git](https://github.com/your-username/spotify-ui-clone.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd spotify-ui-clone
-    ```
-3.  **Open `index.html`:**
-    Simply open the `index.html` file in your web browser.
-
 ## Future Enhancements (Planned)
 
 * **JavaScript Interactivity:** Implement play/pause functionality, dynamic song selection, and volume controls.
